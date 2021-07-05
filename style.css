@@ -93,6 +93,145 @@ h5{
     margin-top: 30px;
     color: rgb(206, 206, 206);
 }
+h4{
+    margin-top: 90px;
+    font-size: 40px;
+    margin-left: 100px;
 
+}
+button{
+    position: absolute;
+    left: 1000px;
+    top: 1350px;
+    width: 160px;
+    height: 40px;
+   margin-bottom: 40px;
+   background-color: transparent;
+   font-size: 17px;
+   border: rgb(158, 158, 158) solid 2px;
+   
+}
+.deepearth{
+    margin-top: 100px;
+    margin-left: 100px;
+    z-index: -0;
+}
+.deep-p{
+    position: absolute;
+    top: 1840px;
+    left: 160px;
+    z-index: 3;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.night-p{
+    position: absolute;
+    top: 1840px;
+    left: 420px;
+    z-index: 3;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.soccer-p{
+    position: absolute;
+    top: 1840px;
+    left: 700px;
+    z-index: 3;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.gride-p{
+    position: absolute;
+    top: 1840px;
+    left: 940px;
+    z-index: 3;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.above{
+    margin-top: 20px;
+    margin-left: 100px;
+    z-index: -0;
+}
+.above-p{
+    position: absolute;
+    top: 2330px;
+    left: 140px;
+    z-index: 3;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.pocket-p{
+    position: absolute;
+    top: 2330px;
+    left: 420px;
+    z-index: 3;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.the-p{
+    position: absolute;
+    top: 2330px;
+    left: 700px;
+    z-index: 3;
+    color: whitesmoke;
+    font-size: 30px;
+}
 
+.make-P{
+    position: absolute;
+    top: 2330px;
+    left: 940px;
+    z-index: 3;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.thirddiv{
+    width: 1200px;
+    height: 190px;
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.logo2{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+ul{
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-top: 40px;
+    word-spacing: 35px;
+}
+
+.facebook{
+    /* margin-left: 940px; */
+    position: absolute;
+   left: 940px;
+  margin-top: 50px;
+}
+.twitter{
+    position: absolute;
+    left: 990px;
+   margin-top: 50px;
+}
+.pinterest{
+    position: absolute;
+    left: 1040px;
+   margin-top: 50px;
+}
+.insta{
+    position: absolute;
+    left: 1090px;
+   margin-top: 50px;
+}
+h6{
+    color: gray;
+    margin-left: 800px;
+  font-size: 17px;
+
+}
 
